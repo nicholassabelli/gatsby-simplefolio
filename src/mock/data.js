@@ -26,7 +26,7 @@ export const aboutData = {
   paragraphFour:
     'I love attending meetups and seminars. If you know of any that match my profile I would love to hear about them.',
   resume:
-    'https://www.icloud.com/iclouddrive/0VaH-NwIf2dltagIpUdVQcLSg#Nicholas_Sabelli_Resume_Alt', // if no resume, the button will not show up
+    'https://www.icloud.com/iclouddrive/0QOed2xjrQkWOq_F7h4oyJP_w#Nicholas_Sabelli_Resume_Alt', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
